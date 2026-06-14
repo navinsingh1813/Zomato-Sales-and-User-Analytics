@@ -15,8 +15,6 @@ Dataset Download
 
 The original datasets used in this project are available via Google Drive:
 
-### Dataset Files
-
 - [Download Dataset Folder](https://drive.google.com/drive/folders/1bp3QGQw7Tte2vDTZSqAM8ACnwMMBPwTS?usp=sharing)
 
 Note:
