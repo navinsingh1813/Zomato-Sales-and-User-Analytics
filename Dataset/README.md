@@ -9,6 +9,13 @@ The project uses the following datasets:
 * restaurant.xlsx
 * users.xlsx
 
-Due to GitHub web upload size limitations, some large source files (such as menu.xlsx) are not included in this repository.
-
 The dataset was used for data modeling, analysis, and dashboard development in Power BI.
+
+Dataset Download
+
+The original datasets used in this project are available via Google Drive:
+
+![link] (https://drive.google.com/drive/folders/1bp3QGQw7Tte2vDTZSqAM8ACnwMMBPwTS?usp=sharing)
+
+Note:
+Some dataset files are not stored directly in this repository due to GitHub file size limitations.
