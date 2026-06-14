@@ -10,3 +10,10 @@ Tools Used:
 * Power Query
 * DAX
 * Data Modeling
+
+## Downloads
+
+### Power BI Dashboard
+
+- [Download PBIX File](https://drive.google.com/file/d/1GkImKLpQmz15VJbGXSwk0Kd5Zjve400C/view?usp=sharing)
+
