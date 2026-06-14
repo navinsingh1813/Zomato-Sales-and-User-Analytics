@@ -1,6 +1,6 @@
 # 🍽️ Zomato Sales & User Analytics
 
-![Dashboard Overview](Images/Dashboard_Overview.png)
+![Dashboard Main](https://github.com/navinsingh1813/Zomato-Sales-and-User-Analytics/blob/main/Images/Main.png)
 
 ## Project Overview
 
@@ -70,7 +70,7 @@ These datasets were modeled in Power BI to create relationships and analytical d
 
 ### Dashboard Overview
 
-![Dashboard Overview](Images/Dashboard_Overview.png)
+![Dashboard Overview](https://github.com/navinsingh1813/Zomato-Sales-and-User-Analytics/blob/main/Images/Overview.png)
 
 Features:
 
@@ -83,7 +83,7 @@ Features:
 
 ### User Performance Dashboard
 
-![User Performance](Images/User_Performance.png)
+![User Performance](https://github.com/navinsingh1813/Zomato-Sales-and-User-Analytics/blob/main/Images/Users%20Performance.png)
 
 Features:
 
@@ -96,7 +96,7 @@ Features:
 
 ### City Analysis Dashboard
 
-![City Analysis](Images/City_Analysis.png)
+![City Analysis](https://github.com/navinsingh1813/Zomato-Sales-and-User-Analytics/blob/main/Images/City%20Analysis.png)
 
 Features:
 
@@ -141,10 +141,3 @@ Features:
 
 The dashboard provides a comprehensive view of Zomato's operational and customer performance, enabling stakeholders to monitor business growth, user engagement, and market opportunities through data-driven insights.
 
----
-
-### 👨‍💻 Author
-
-**Navin Kumar Singh**
-
-Aspiring Data Analyst skilled in SQL, Power BI, Excel, DAX, Data Modeling, and Business Intelligence.
